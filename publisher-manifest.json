@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "0a813f3c67e67a009bf90147",
+  "owner": "vruqtumfy",
+  "repo": "page-10489f85b5191522314692cb",
+  "title": "Clash Mi服务商官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "10489f85b5191522314692cb",
+      "a": "星愿云(SWCloud)",
+      "b": "Clash Mi服务商官网",
+      "entity": "星愿云(SWCloud)",
+      "brand": "Clash Mi服务商官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4cfe7ec2efa1fd9faba2838e0141d5116f7993fe15d6eb54723dbe298e6526b9",
+      "content": {
+        "primary_entity": "星愿云(SWCloud)",
+        "keyword1": "星愿云(SWCloud)",
+        "keyword2": "Clash Mi服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，订阅配置更省心。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选合适套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_DESCRIPTION": "，星愿云(SWCloud)提供基础版、旗舰版与团队版三档套餐，覆盖每月100GB到1000GB流量，支持3台到20台设备同时在线。旗舰版含IPLC专线游戏加速优化与7x24优先工单支持，团队版提供VIP专属高带宽节点与企业定制路由，年付均有优惠。",
+          "AI_FEATURES_INTRO": "从流量、设备与周期三个角度挑选适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择维度",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻度使用，旗舰版300GB适合日常影音，团队版1000GB适合多设备共享。",
+          "AI_FEATURE_TITLE_1": "流量决定场景",
+          "AI_FEATURE_TEXT_2": "3台设备起步、5台进阶、20台团队协作，按同时在线设备数量选择对应档位。",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础版¥150、旗舰版¥350、团队版¥850，长期使用更划算。",
+          "AI_FEATURE_TITLE_3": "计费周期灵活",
+          "AI_GUIDE_INTRO": "三步完成服务选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "星愿云(SWCloud)提供多档海外加速套餐，覆盖流媒体解锁、游戏专线与团队协作场景。根据设备数量与流量需求选择基础版、旗舰版或团队版，按客户端文档配置订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "基础版月付¥15，含100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备同时在线",
+          "AI_PLANS_INTRO": "三档套餐按流量、设备数与线路品质区分，对比后选择适合自己的一档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，在基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的同时在线设备数量、流媒体解锁范围与线路类型等适配要求。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_3": "在设备对应客户端中填入订阅链接，保存后即可连接。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "星愿云多档加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "星愿云(SWCloud)套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "按设备数量和月流量需求选择：基础版3台设备、100GB适合轻度使用；旗舰版5台设备、300GB含IPLC专线适合游戏与流媒体；团队版20台设备、1000GB适合多人共享。",
+          "AI_FAQ_QUESTION_2": "订阅是否支持多设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出设备数可能导致连接中断，建议按实际设备数量选择。",
+          "AI_FAQ_QUESTION_3": "按年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按年付可节省费用：基础版¥150/年，旗舰版¥350/年，团队版¥850/年，相比月付累计更划算，权益与月付一致。",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_ANSWER_4": "获取订阅链接后，打开对应客户端选择从链接导入或手动添加订阅，具体步骤参考客户端附带的配置文档。",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线有什么作用？",
+          "AI_FAQ_ANSWER_5": "IPLC专线提供更稳定的跨境连接，降低游戏延迟和视频卡顿，适合对网络质量要求较高的场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d9e53dbc567a34953bb2c9d2f040650a04e18bb8d7647e6eacd8474e08e9b6c7",
+    "sitemap.xml": "02a72e6f33923dd4d6f753507c83bfc45c62ff8afb4166acb29f3434efce1559",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "41a74e51b6f0c717b155ffda6031e5115f75d45b412f1b5b177f16be17dfc134"
+}
